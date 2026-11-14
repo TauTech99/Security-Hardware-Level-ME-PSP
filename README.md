@@ -268,3 +268,4 @@ Este README ofrece información general. Acciones como usar `me_cleaner`, flashe
 
 ## https://discuss.privacyguides.net/t/how-can-i-have-a-computer-without-intel-me/14803
 ##  https://www.reddit.com/r/privacy/comments/1i1i2hw/most_recent_powerful_cpu_without_intel_me_amd_psp/
+*TauTech99
